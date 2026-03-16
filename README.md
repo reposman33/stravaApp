@@ -1,0 +1,1 @@
+Deze ap is om de Strava API te bevragen en mijn hardlopodata op te vragen
