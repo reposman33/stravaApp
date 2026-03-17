@@ -1,1 +1,1 @@
-Deze ap is om de Strava API te bevragen en mijn hardlopodata op te vragen
+Haal al mijn activiteiten van Strava op via de API met node.js en Javascript.
